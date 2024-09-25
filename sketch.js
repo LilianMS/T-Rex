@@ -1,4 +1,4 @@
-var box;
+let box;
 function setup() {
   createCanvas(600, 600);
   box = createSprite(300,300,30,30);
